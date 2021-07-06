@@ -1,0 +1,11 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
